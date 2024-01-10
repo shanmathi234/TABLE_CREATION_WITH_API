@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/TABLE_CREATION_WITH_API/static/css/main.f8d6db49.css",
+    "main.js": "/TABLE_CREATION_WITH_API/static/js/main.07dc74f4.js",
+    "blueprint-icons-all-paths-loader.js": "/TABLE_CREATION_WITH_API/static/js/blueprint-icons-all-paths-loader.617edab3.chunk.js",
+    "blueprint-icons-split-paths-by-size-loader.js": "/TABLE_CREATION_WITH_API/static/js/blueprint-icons-split-paths-by-size-loader.51d1d748.chunk.js",
+    "static/js/787.8717f549.chunk.js": "/TABLE_CREATION_WITH_API/static/js/787.8717f549.chunk.js",
+    "blueprint-icons-all-paths.js": "/TABLE_CREATION_WITH_API/static/js/blueprint-icons-all-paths.9d3c00a5.chunk.js",
+    "blueprint-icons-16px-paths.js": "/TABLE_CREATION_WITH_API/static/js/blueprint-icons-16px-paths.f28679df.chunk.js",
+    "blueprint-icons-20px-paths.js": "/TABLE_CREATION_WITH_API/static/js/blueprint-icons-20px-paths.0f395e34.chunk.js",
+    "static/media/blueprint-icons-20.svg?": "/TABLE_CREATION_WITH_API/static/media/blueprint-icons-20.66fb498446c793829af1.svg",
+    "static/media/blueprint-icons-16.svg?": "/TABLE_CREATION_WITH_API/static/media/blueprint-icons-16.25cbdc49993409d8c1d4.svg",
+    "static/media/blueprint-icons-20.eot?": "/TABLE_CREATION_WITH_API/static/media/blueprint-icons-20.b601f6477390221e93e9.eot",
+    "static/media/blueprint-icons-20.ttf?": "/TABLE_CREATION_WITH_API/static/media/blueprint-icons-20.816ad36e26456d4aa60c.ttf",
+    "static/media/blueprint-icons-16.eot?": "/TABLE_CREATION_WITH_API/static/media/blueprint-icons-16.169ef7eb96e6ffb84540.eot",
+    "static/media/blueprint-icons-16.ttf?": "/TABLE_CREATION_WITH_API/static/media/blueprint-icons-16.59fca911073843a782a8.ttf",
+    "static/media/blueprint-icons-20.woff?": "/TABLE_CREATION_WITH_API/static/media/blueprint-icons-20.709475b67089c8458aa3.woff",
+    "static/media/blueprint-icons-16.woff?": "/TABLE_CREATION_WITH_API/static/media/blueprint-icons-16.320ac3f329d7a2ceeef3.woff",
+    "static/media/blueprint-icons-20.woff2?": "/TABLE_CREATION_WITH_API/static/media/blueprint-icons-20.02bba2420fd6f2359caa.woff2",
+    "static/media/blueprint-icons-16.woff2?": "/TABLE_CREATION_WITH_API/static/media/blueprint-icons-16.e45a6485f41e3cfcf741.woff2",
+    "index.html": "/TABLE_CREATION_WITH_API/index.html",
+    "main.f8d6db49.css.map": "/TABLE_CREATION_WITH_API/static/css/main.f8d6db49.css.map",
+    "main.07dc74f4.js.map": "/TABLE_CREATION_WITH_API/static/js/main.07dc74f4.js.map",
+    "blueprint-icons-all-paths-loader.617edab3.chunk.js.map": "/TABLE_CREATION_WITH_API/static/js/blueprint-icons-all-paths-loader.617edab3.chunk.js.map",
+    "blueprint-icons-split-paths-by-size-loader.51d1d748.chunk.js.map": "/TABLE_CREATION_WITH_API/static/js/blueprint-icons-split-paths-by-size-loader.51d1d748.chunk.js.map",
+    "787.8717f549.chunk.js.map": "/TABLE_CREATION_WITH_API/static/js/787.8717f549.chunk.js.map",
+    "blueprint-icons-all-paths.9d3c00a5.chunk.js.map": "/TABLE_CREATION_WITH_API/static/js/blueprint-icons-all-paths.9d3c00a5.chunk.js.map",
+    "blueprint-icons-16px-paths.f28679df.chunk.js.map": "/TABLE_CREATION_WITH_API/static/js/blueprint-icons-16px-paths.f28679df.chunk.js.map",
+    "blueprint-icons-20px-paths.0f395e34.chunk.js.map": "/TABLE_CREATION_WITH_API/static/js/blueprint-icons-20px-paths.0f395e34.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8d6db49.css",
+    "static/js/main.07dc74f4.js"
+  ]
+}
